@@ -1,0 +1,12 @@
+{
+  "emplyee_add":{
+    "username": "tom789",
+    "mobile": "13012340002",
+    "timeOfEntry": "2019-07-01",
+    "formOfEmployment": 1,
+    "workNumber": "111222",
+    "departmentName": "开发部",
+    "departmentId": "1066240656856453120",
+    "correctionTime": "2019-11-30"
+  }
+}
